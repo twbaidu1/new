@@ -4,7 +4,7 @@
 
 在你的服务器上执行：
 
-git clone https://github.com/twbaidu1/new.git && cd openvpn &&chmod +x OpenVPN_centos7.sh &&./OpenVPN_centos7.sh
+git clone https://github.com/twbaidu1/new.git && cd new &&chmod +x OpenVPN_centos7.sh &&./OpenVPN_centos7.sh
 
 就可以自动安装。
 
